@@ -45,7 +45,7 @@ Note: When you're done, submit a PR.
 15. What's an ORM?
 * Object Relationship Mapper, 
 16. What's the most commonly used ORM in ruby (Sinatra & Rails)?
-* SQL (Sqlite3, mysql(not recommended) and postgresql(most common)).
+* ActiveRecord - Datamapper and Sequel are some others but much less common.
 17. Let's say we have an application with restaurants. There are seven verb + path combinations necessary to provide full CRUD functionality for our restaurant application. List each of the seven combinations, and explain what each is for.
 * Would need to refer to diagram from Jeff's talk but know where the info is located.
 18. What's a migration? 
